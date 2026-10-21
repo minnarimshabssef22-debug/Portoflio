@@ -24,11 +24,12 @@ export const projects = [
 ]
 
 export const skills = [
-  { label: 'Development', items: ['Java', 'C++', 'Python', 'Web Development', 'Mobile Development', 'Desktop Development', '.NET', 'ASP.NET Core'], note: '.NET and ASP.NET Core · Currently learning' },
+  { label: 'Programming & Development', items: ['Java', 'C++', 'Python', 'Web Development', 'Mobile Development', 'Desktop Development', '.NET', 'ASP.NET Core'], note: '.NET and ASP.NET Core · Currently learning' },
   { label: 'Databases', items: ['MongoDB', 'MySQL', 'Database Management'] },
-  { label: 'AI & Data', items: ['Generative AI Prompt Design', 'Model Training and Evaluation', 'Data Analytics', 'Power BI', 'Tableau', 'Business Intelligence'] },
-  { label: 'Software Engineering', items: ['Software Requirements Engineering', 'Software Architecture and Design Patterns', 'Software Project Management', 'Software Testing', 'Software Re-engineering'] },
-  { label: 'Tools', items: ['Visual Studio Code', 'Android Studio', 'Figma', 'LaTeX', 'Cisco Packet Tracer', 'Lucidchart', 'Microsoft Office'] },
+  { label: 'AI & Machine Learning', items: ['Generative AI Prompt Design', 'Model Training', 'Model Evaluation'] },
+  { label: 'Data Analytics', items: ['Power BI', 'Tableau', 'Data Analytics', 'Business Intelligence'] },
+  { label: 'Software Engineering', items: ['Software Requirements Engineering', 'Software Architecture', 'Design Patterns', 'Project Management', 'Software Testing', 'Software Re-engineering'] },
+  { label: 'Tools & Technologies', items: ['Visual Studio Code', 'Android Studio', 'Figma', 'LaTeX', 'Cisco Packet Tracer', 'Lucidchart', 'Microsoft Office'] },
 ]
 
 export const certifications = [
